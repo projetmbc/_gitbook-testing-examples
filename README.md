@@ -1,3 +1,3 @@
-# gitbook is unuseful !
+# git_essential-testing_examples is unuseful !
 
-Just for testing some features !
+This repository is just for testing some features !
